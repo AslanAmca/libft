@@ -1,9 +1,9 @@
 # Libft
-libft is a project designed to reimplement the functions of the C Standard Library (libc) and create your own custom standard library. <br>
-In this project, you can improve your programming skills by rebuilding your basic functions in the C language on your own. <br>
+libft is a project designed to reimplement the functions of the C Standard Library (libc) and create your own custom standard library.
+In this project, you can improve your programming skills by rebuilding your basic functions in the C language on your own.
 In addition, you are also expected to implement some data structures such as linked lists and the functions related to these structures.
 
-This project helps you to better understand the C language by creating on your own the basic functions needed when programming in C. <br>
+This project helps you to better understand the C language by creating on your own the basic functions needed when programming in C.
 It also gives you the opportunity to practice understanding data structures and building your own libraries.
 
 # Libft Functions
